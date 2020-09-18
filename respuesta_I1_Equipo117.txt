@@ -1,0 +1,7 @@
+ALFA: Caffaro Facundo
+BETA: Nahuel Antunez
+GAMMA: Enriquez Ignacio
+
+Respuestas:
+a-Se vieron los cambios hechos por BETA y GAMMA
+b-Si, los demas integrante ven lo que agrega ALFA
