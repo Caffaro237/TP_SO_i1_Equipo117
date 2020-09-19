@@ -5,3 +5,4 @@ GAMMA: Enriquez Ignacio
 Respuestas:
 a-Se vieron los cambios hechos por BETA y GAMMA
 b-Si, los demas integrante ven lo que agrega ALFA
+e-La mejor manera de comunicarse es a traves de los Commit especificando los trabajos terminados
